@@ -81,3 +81,8 @@ img {
 .nav-principal a {
   color: #fff;
 }
+
+/** Main home **/
+.titulo-principal {
+  font-weight: 400;
+}
